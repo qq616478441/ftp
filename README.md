@@ -1,6 +1,3 @@
-# MiniFtp
-
-[MiniFtp v1.0](https://github.com/skyqinsc/MiniFtp/) Copyright © Qinsc
 
 MiniFtp服务器：
 
